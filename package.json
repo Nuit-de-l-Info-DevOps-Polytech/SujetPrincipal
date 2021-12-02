@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nuit-de-l-Info-DevOps-Polytech/SujetPrincipal/issues"
   },
-  "homepage": "https://github.com/Nuit-de-l-Info-DevOps-Polytech/SujetPrincipal#readme"
+  "homepage": "https://github.com/Nuit-de-l-Info-DevOps-Polytech/SujetPrincipal#readme",
+  "devDependencies": {
+    "create-react-app": "^4.0.3"
+  }
 }
