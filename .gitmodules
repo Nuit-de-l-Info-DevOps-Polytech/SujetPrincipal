@@ -1,3 +1,12 @@
 [submodule "front-nuit-de-linfo"]
 	path = front-nuit-de-linfo
 	url = ./front-nuit-de-linfo
+[submodule "sauvetage-nuit-de-linfo"]
+	path = sauvetage-nuit-de-linfo
+	url = ./sauvetage-nuit-de-linfo
+[submodule "front"]
+	path = front
+	url = git@github.com:Nuit-de-l-Info-DevOps-Polytech/front.git
+[submodule "sauvetage"]
+	path = sauvetage
+	url = git@github.com:Nuit-de-l-Info-DevOps-Polytech/sauvetage.git
